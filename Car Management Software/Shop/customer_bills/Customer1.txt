@@ -1,0 +1,40 @@
+
+				    Customer Bill
+
+
+
+		 		Customer Name - Customer1		
+
+		 		Customer Email - customer1@gmail.com
+
+		 		Customer Mobile - 7689340251
+
+		 		Customer Address - Ludhiyana,Punjab,India
+
+
+
+
+		 		Customer Date of birth - 01/01/01
+
+		 		Customer Date of product - 15/02/24
+
+		 		Customer Nationality - Indian
+
+		 		Customer Proof Type - Adhar card
+
+		 		Customer Proof ID - 729812041752
+
+		 		Customer ID - 715021428
+
+		 		Product Name - Maruti Suzuki Vittara Brezza
+
+		 		Product Price - RS 650,000
+
+		 		Product Brand - Marauti & Suzuki
+
+		 		Product Model Date/Year - 02/Febuary/2019
+
+		 		Product Number - PN 5427 7911
+
+
+		

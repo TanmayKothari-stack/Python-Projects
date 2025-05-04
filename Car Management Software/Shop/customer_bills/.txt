@@ -1,0 +1,38 @@
+
+				    Customer Bill
+
+
+
+		 		Customer Name - 		
+
+		 		Customer Email - 
+
+		 		Customer Mobile - 
+
+		 		Customer Address - 
+
+
+		 		Customer Date of birth - 
+
+		 		Customer Date of product - 16/02/24
+
+		 		Customer Nationality - 
+
+		 		Customer Proof Type - Select Proof Type
+
+		 		Customer Proof ID - 
+
+		 		Customer ID - 
+
+		 		Product Name - 
+
+		 		Product Price - RS 
+
+		 		Product Brand - 
+
+		 		Product Model Date/Year - 
+
+		 		Product Number - 
+
+
+		

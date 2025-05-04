@@ -1,0 +1,13 @@
+Important points must be remebered while installing this software :-
+
+1. This softawre is an application software which is used for an specific purpose only.
+
+2. The software is made for with an special order for a company.
+
+3. This software is an open source software the written code files are provided inside directory.
+
+4. This software is used within the the boundries of India only.
+
+5. A proper licience is purchased legal while using this software.
+
+########################### Hope this will help you to understand the product #############  

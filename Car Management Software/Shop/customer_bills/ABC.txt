@@ -1,0 +1,39 @@
+
+				    Customer Bill
+
+
+
+		 		Customer Name - ABC		
+
+		 		Customer Email - abc@gmail.com
+
+		 		Customer Mobile - 1234567890
+
+		 		Customer Address - Amritsar,Punjab
+
+
+
+		 		Customer Date of birth - 01/01/01
+
+		 		Customer Date of product - 15/04/24
+
+		 		Customer Nationality - Indian
+
+		 		Customer Proof Type - Adhar card
+
+		 		Customer Proof ID - 123456789012
+
+		 		Customer ID - 402912037
+
+		 		Product Name - Dummy Car1
+
+		 		Product Price - RS 400,000
+
+		 		Product Brand - Mahindra
+
+		 		Product Model Date/Year - 01/January/2021
+
+		 		Product Number - PN-0393-8388
+
+
+		

@@ -1,0 +1,39 @@
+
+				    Customer Bill
+
+
+
+		 		Customer Name - Customer3		
+
+		 		Customer Email - customer3@gmail.com
+
+		 		Customer Mobile - 8710264952
+
+		 		Customer Address - Jabalpur,Madhya Pradesh, India
+
+
+
+		 		Customer Date of birth - 20/02/05
+
+		 		Customer Date of product - 16/02/24
+
+		 		Customer Nationality - Indian
+
+		 		Customer Proof Type - Adhar card
+
+		 		Customer Proof ID - 703125579034
+
+		 		Customer ID - 953265489
+
+		 		Product Name - On Demand1
+
+		 		Product Price - RS 500,000
+
+		 		Product Brand - On Demand
+
+		 		Product Model Date/Year - 01/March/2019
+
+		 		Product Number - MP 5290 7317
+
+
+		

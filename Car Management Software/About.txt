@@ -1,0 +1,9 @@
+######################## Important points after installation ##############
+
+1. After installation refresh your system/machine and open main file "E-Shopping.exe".
+
+2. Do not delete any files/folders inside the main directory "Shop".
+
+3. A backup database file is provided inside the main directory "Shop/Backup database file/shopping.sql"
+
+4. For furthur queries/information contact to our official mail address "indiantechnologies@gmail.com".
