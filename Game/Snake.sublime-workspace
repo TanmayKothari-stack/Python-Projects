@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"k",
+				"keyCode"
+			],
+			[
+				"h",
+				"hsla()\tbackground"
+			],
+			[
+				"dar",
+				"dark1-mode"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"for",
+				"foreach\t<?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"da",
+				"dark-umsg"
+			],
+			[
+				"re",
+				"recognition"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"c",
+				"cpassword"
+			],
+			[
+				"room",
+				"room_number"
+			],
+			[
+				"res",
+				"res2"
+			],
+			[
+				"dta",
+				"dta3"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"ses_u",
+				"session_unset"
+			],
+			[
+				"pas",
+				"password_hash"
+			],
+			[
+				"fotn",
+				"font-weight\tproperty"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"tra",
+				"target\tAttr"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"pd",
+				"padding-left\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"fr",
+				"frameset\tTag"
+			],
+			[
+				"frame",
+				"frame\tTag"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"fram",
+				"frame\tTag"
+			],
+			[
+				"zip_e",
+				"zip_read"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"ani-d",
+				"animation-duration\tproperty"
+			],
+			[
+				"fol",
+				"foldername"
+			],
+			[
+				"folder",
+				"foldername"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sca",
+				"scaner"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"boder",
+				"border\tproperty"
+			],
+			[
+				"q",
+				"query1"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sess_u",
+				"session_unset"
+			],
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"aling",
+				"align-items\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"f",
+				"frame\tTag"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"bloc",
+				"block\tdisplay"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"result",
+				"result"
+			],
+			[
+				"mysqli_",
+				"mysqli_num_rows"
+			],
+			[
+				"query",
+				"query3"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"error",
+				"error_reporting()"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"boredr",
+				"border"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"borer",
+				"border"
+			],
+			[
+				"mysqli_fect",
+				"mysqli_fetch_array"
+			],
+			[
+				"onu",
+				"onunload\tAttr"
+			],
+			[
+				"ovef",
+				"overflow-x\tproperty"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"gri",
+				"grid\tdisplay"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"ov",
+				"overflow-y\tproperty"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"data",
+				"data1"
+			],
+			[
+				"qury",
+				"query1"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"marig",
+				"margin-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"upl",
+				"upload_files"
+			],
+			[
+				"v",
+				"videos"
+			],
+			[
+				"profi",
+				"profile_insert"
+			],
+			[
+				"accon",
+				"account"
+			],
+			[
+				"gap",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"grid-g",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"block",
+				"inline-block\tdisplay"
+			],
+			[
+				"min",
+				"minmax"
+			],
+			[
+				"auto",
+				"auto-fit"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"paddig",
+				"padding-left"
+			],
+			[
+				"bordr",
+				"border"
+			],
+			[
+				"like",
+				"like_dislike"
+			],
+			[
+				"my",
+				"mysqli_fetch"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_array"
+			],
+			[
+				"m",
+				"mediaSource"
+			],
+			[
+				"boredr-r",
+				"border-radius\tproperty"
+			],
+			[
+				"mysqli_fetc",
+				"mysqli_fetch_array"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"eho",
+				"echo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jitendra/My computer Python/Game/Snake.py",
+		"/C/xampp/htdocs/Glassphorisim Form/chating.php",
+		"/C/xampp/htdocs/Glassphorisim Form/contacts_frame.php",
+		"/C/xampp/htdocs/Glassphorisim Form/add_contact.php",
+		"/C/xampp/htdocs/Glassphorisim Form/contacts_search.php",
+		"/C/xampp/htdocs/Glassphorisim Form/search_frame.php",
+		"/C/xampp/htdocs/Glassphorisim Form/dummy_chating.php",
+		"/C/xampp/htdocs/Glassphorisim Form/status.php",
+		"/C/xampp/htdocs/Glassphorisim Form/status_frame.php",
+		"/C/xampp/htdocs/Glassphorisim Form/contact_status.php",
+		"/C/xampp/htdocs/Glassphorisim Form/create_status.php",
+		"/C/xampp/htdocs/Glassphorisim Form/contact_chat.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Game/lib_chunk.js",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Game/lib_react.chunk.js",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Game/strings_m.js",
+		"/C/xampp/htdocs/File Uploads/file.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Screen Recorder/test1.html",
+		"/C/xampp/htdocs/Glassphorisim Form/chat_frame.php",
+		"/C/xampp/htdocs/Glassphorisim Form/frames.php",
+		"/C/xampp/htdocs/Glassphorisim Form/themes.php",
+		"/C/xampp/htdocs/Glassphorisim Form/frames2.php",
+		"/C/xampp/htdocs/Glassphorisim Form/login.php",
+		"/C/xampp/htdocs/Glassphorisim Form/form.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/auto_scroll.html",
+		"/C/xampp/htdocs/Glassphorisim Form/logout.php",
+		"/C/xampp/htdocs/Glassphorisim Form/locksrceen.php",
+		"/C/xampp/htdocs/Glassphorisim Form/top_frame.php",
+		"/C/xampp/htdocs/Glassphorisim Form/right_frame.php",
+		"/C/xampp/htdocs/Glassphorisim Form/left_frame.php",
+		"/C/xampp/htdocs/Glassphorisim Form/style.css",
+		"/C/Users/jitendra/Desktop/My Computer MySQL/connection.php",
+		"/C/Windows/System32/drivers/etc/host",
+		"/C/Users/jitendra/test.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/Scanner.php",
+		"/C/xampp/htdocs/Glassphorisim Form/view_files.php",
+		"/C/xampp/htdocs/Glassphorisim Form/folders_data.php",
+		"/C/xampp/htdocs/zip.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Slider/slider.html",
+		"/C/xampp/htdocs/Glassphorisim Form/delete_folders.php",
+		"/C/xampp/htdocs/Glassphorisim Form/delete_files.php",
+		"/C/xampp/htdocs/Glassphorisim Form/insert_folders_data.php",
+		"/C/Users/jitendra/Desktop/htdocs/facebook/login.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Glassphorisim Form/style.css",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Glassphorisim Form/form.html",
+		"/C/xampp/htdocs/Youtube/veiw_videos.php",
+		"/C/xampp/htdocs/Youtube/like.php",
+		"/C/xampp/htdocs/Youtube/subscribe.php",
+		"/C/xampp/htdocs/facebook/download.php",
+		"/C/xampp/htdocs/Youtube/logout.php",
+		"/C/xampp/htdocs/Youtube/dislike.php",
+		"/C/xampp/htdocs/facebook/like.php",
+		"/C/xampp/htdocs/facebook/home_page.php",
+		"/C/xampp/htdocs/Zip opening file/zip_open.php",
+		"/C/xampp/htdocs/Zip opening file/open file.php",
+		"/C/xampp/htdocs/Youtube/your_videos.php",
+		"/C/xampp/htdocs/Youtube/upload_files.php",
+		"/C/xampp/htdocs/Youtube/Mannual Query.php",
+		"/C/xampp/htdocs/Youtube/delete_comments.php",
+		"/C/xampp/htdocs/Youtube/home_page.php",
+		"/C/xampp/htdocs/Youtube/webtesting.php",
+		"/C/xampp/htdocs/facebook/comments.php",
+		"/C/xampp/htdocs/Youtube/about.php",
+		"/C/xampp/htdocs/facebook/real_display.php",
+		"/C/xampp/htdocs/facebook/real_fetch.php",
+		"/C/xampp/htdocs/facebook/chat.php",
+		"/C/xampp/htdocs/Genrate PDF Form/Form.php",
+		"/C/xampp/htdocs/Genrate PDF Form/fpdf/fpdf.php",
+		"/C/xampp/htdocs/Genrate PDF Form/pdf.php",
+		"/C/xampp/htdocs/Genrate PDF Form/connection.php",
+		"/C/xampp/htdocs/PHP/Form.php",
+		"/C/xampp/htdocs/Youtube/youtube_channel.php",
+		"/C/xampp/htdocs/Youtube/photo/youtube_channel.php",
+		"/C/xampp/htdocs/Youtube/profile_insert.php",
+		"/C/xampp/htdocs/Youtube/Registration.php",
+		"/C/xampp/htdocs/facebook/post_world.php",
+		"/C/xampp/htdocs/Youtube/move_files.php",
+		"/C/xampp/htdocs/Youtube/login.php",
+		"/C/xampp/htdocs/facebook/veiw_file.php",
+		"/C/xampp/htdocs/Youtube/connection.php",
+		"/C/xampp/htdocs/Youtube/frame_right.php",
+		"/C/xampp/htdocs/Youtube/frame_left.php",
+		"/C/xampp/htdocs/Youtube/frame_search.php",
+		"/C/xampp/htdocs/Youtube/frames.php",
+		"/C/xampp/htdocs/facebook/delete_comments.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Accordain/Accordian3.html",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Accordain/accorddian - Copy.html",
+		"/C/xampp/htdocs/facebook/home.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Accordain/accorddian.html",
+		"/C/xampp/htdocs/facebook/Delete.php",
+		"/C/xampp/htdocs/facebook/login.php",
+		"/C/xampp/htdocs/facebook/Registration.php",
+		"/C/xampp/htdocs/facebook/delete_download.php",
+		"/C/xampp/htdocs/facebook/dowload.php",
+		"/C/xampp/htdocs/facebook/display_download.php",
+		"/C/xampp/htdocs/facebook/display_downloads",
+		"/C/xampp/htdocs/facebook/clear_chat.php",
+		"/C/xampp/htdocs/facebook/delete_message.php",
+		"/C/xampp/htdocs/facebook/profile_insert.php",
+		"/C/xampp/htdocs/facebook/dislike.php",
+		"/C/Users/jitendra/Documents/My Data Sources/veiwzip file.php",
+		"/C/Users/jitendra/Documents/My Data Sources/veiw image.php",
+		"/C/Users/jitendra/Documents/My Data Sources/open file.php",
+		"/C/xampp/htdocs/Index Folder/Download.php",
+		"/C/xampp/htdocs/Index Folder/download_get_id.php",
+		"/C/xampp/htdocs/Index Folder/login.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Screen Recorder/test.html",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Screen Recorder/finaltest.html",
+		"/C/xampp/htdocs/facebook/webtesting.php",
+		"/C/xampp/htdocs/facebook/result.php",
+		"/C/xampp/htdocs/facebook/search.php",
+		"/C/xampp/htdocs/facebook2/fetchmsg.php",
+		"/C/xampp/htdocs/facebook2/chat.php",
+		"/C/xampp/htdocs/facebook/update.php",
+		"/C/xampp/htdocs/facebook/css/style.css",
+		"/C/xampp/htdocs/facebook/css/style(1).css",
+		"/C/xampp/htdocs/facebook/profile_details.php",
+		"/C/xampp/htdocs/facebook/seetings.php",
+		"/C/Users/jitendra/Desktop/My Computer HTML/Light Dark Theme Website/light_dark.html",
+		"/C/xampp/htdocs/Search Engine/Search Data/result.php",
+		"/C/xampp/htdocs/facebook/delete_part_chat.php",
+		"/C/xampp/htdocs/facebook/fetchmsg.php",
+		"/C/xampp/htdocs/facebook/logout.php",
+		"/C/xampp/htdocs/Index Folder/update.php",
+		"/C/xampp/htdocs/facebook/details1.php",
+		"/C/xampp/htdocs/Index Folder/Home Page.php",
+		"/C/xampp/htdocs/facebook/details.php",
+		"/C/xampp/htdocs/Index Folder/finalsearch(1).php"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".msg",
+			";\"><",
+			"ch",
+			"innerHTML",
+			"hello world",
+			"; ",
+			">\";",
+			"border:1px solid",
+			"border:1px",
+			"purple",
+			"purpule",
+			"$result5",
+			"background:#dadada;",
+			"overflow:hidden;",
+			"p",
+			">\n",
+			"$result1[9]",
+			"$ressult1[9]",
+			"$ressult[9]",
+			"$res",
+			"$total",
+			"1000px",
+			"YYYYYYyyyyyyyyyyyyyyyyyyyyyyyyy",
+			"$result7",
+			"From You",
+			"1",
+			"cursor",
+			"cursor:pointer;",
+			".active",
+			"password",
+			"cursor",
+			"></",
+			"srcObject",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 264.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Snake.sublime-project",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
