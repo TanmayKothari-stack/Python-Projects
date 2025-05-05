@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Call</title>
+</head>
+<body>
+    <h2>Video Call</h2>
+    <button id="video-call-button">Start Video Call</button>
+
+    <video id="localVideo" autoplay playsinline></video>
+    <video id="remoteVideo" autoplay playsinline></video>
+
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+    <script>
+        const socket = io();
+
+        let localStream;
+        let peerConnection;
+
+        // Get user media (camera & microphone)
+        const getUserMediaStream = async () => {
+            try {
+                localStream = await navigator.mediaDevices.getUserMedia({ video: true, audio: true });
+                document.getElementById('localVideo').srcObject = localStream;
+            } catch (error) {
+                console.error('Error accessing media devices.', error);
+            }
+        };
+
+        // Initialize WebRTC peer connection
+        const createPeerConnection = () => {
+            peerConnection = new RTCPeerConnection({
+                iceServers: [
+                    { urls: 'stun:stun.l.google.com:19302' }
+                ]
+            });
+
+            localStream.getTracks().forEach(track => peerConnection.addTrack(track, localStream));
+
+            peerConnection.onicecandidate = event => {
+                if (event.candidate) {
+                    socket.emit('ice-candidate', event.candidate);
+                }
+            };
+
+            peerConnection.ontrack = event => {
+                document.getElementById('remoteVideo').srcObject = event.streams[0];
+            };
+        };
+
+        // Handle offer and answer
+        socket.on('offer', async (offer) => {
+            createPeerConnection();
+            await peerConnection.setRemoteDescription(new RTCSessionDescription(offer));
+            const answer = await peerConnection.createAnswer();
+            await peerConnection.setLocalDescription(answer);
+            socket.emit('answer', answer);
+        });
+
+        socket.on('answer', async (answer) => {
+            await peerConnection.setRemoteDescription(new RTCSessionDescription(answer));
+        });
+
+        // Handle ICE candidates
+        socket.on('ice-candidate', async (candidate) => {
+            try {
+                await peerConnection.addIceCandidate(new RTCIceCandidate(candidate));
+            } catch (e) {
+                console.error('Error adding received ICE candidate', e);
+            }
+        });
+
+        // When the user clicks the video call button
+        document.getElementById('video-call-button').addEventListener('click', async () => {
+            const user_id = 1;  // Example: logged in user ID
+            const friend_id = 2; // Example: friend ID to call
+
+            // Fetch friendship ID from the server
+            const response = await fetch('/get_friendship_id', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ user_id, friend_id })
+            });
+
+            const data = await response.json();
+            if (response.ok) {
+                // Friendship ID found, start the call
+                console.log('Friendship ID:', data.friendship_id);
+
+                await getUserMediaStream();
+                createPeerConnection();
+
+                const offer = await peerConnection.createOffer();
+                await peerConnection.setLocalDescription(offer);
+                socket.emit('offer', offer);
+            } else {
+                console.error('Error fetching friendship ID:', data.error);
+            }
+        });
+    </script>
+</body>
+</html>
